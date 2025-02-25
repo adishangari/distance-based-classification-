@@ -18,15 +18,9 @@ Cross validation helps assess how well a model generalizes to test data or data 
 #### 5. Explain variance and bias in terms of KNN? 
 Low K means high variance, low bias which casues overfitting whereas, high K means Low variance, high bias casuing underfitting of data.Hence it is essential to choose an optial K such that it balances bias and variance.
 
-### Image 1  
-![Image 1](images/1.png)  
+<img width="1002" alt="Screenshot 2025-02-25 at 7 30 40 PM" src="https://github.com/user-attachments/assets/889c63c8-fc36-452b-a43c-acaed9ce1475" />
+<img width="1042" alt="Screenshot 2025-02-25 at 7 30 13 PM" src="https://github.com/user-attachments/assets/a6a68ae1-acde-4bef-ac3a-42442f2a988c" />
+<img width="995" alt="Screenshot 2025-02-25 at 7 30 25 PM" src="https://github.com/user-attachments/assets/7dd7922e-981e-4117-84f3-9d1a78f195a5" />
+<img width="1022" alt="Screenshot 2025-02-25 at 7 30 32 PM" src="https://github.com/user-attachments/assets/9caeced6-fc97-43da-afeb-803e94f4208b" />
 
-### Image 2  
-![Image 2](images/2.png)  
-
-### Image 3  
-![Image 3](images/3.png)  
-
-### Image 4  
-![Image 4](images/4.png)
 
