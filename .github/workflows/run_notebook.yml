@@ -27,5 +27,5 @@ jobs:
 
       - name: Execute Jupyter Notebook
         run: |
-          jupyter nbconvert --to notebook --execute your_notebook.ipynb
+          jupyter nbconvert --to notebook --execute Lab 5-Spring 2025.ipynb
 
