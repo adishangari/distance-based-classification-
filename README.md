@@ -23,4 +23,8 @@ Low K means high variance, low bias which casues overfitting whereas, high K mea
 <img width="995" alt="Screenshot 2025-02-25 at 7 30 25 PM" src="https://github.com/user-attachments/assets/7dd7922e-981e-4117-84f3-9d1a78f195a5" />
 <img width="1022" alt="Screenshot 2025-02-25 at 7 30 32 PM" src="https://github.com/user-attachments/assets/9caeced6-fc97-43da-afeb-803e94f4208b" />
 
+screenshots from wandb sent commands by kaggle
+<img width="1440" alt="Screenshot 2025-02-25 at 7 40 03 PM" src="https://github.com/user-attachments/assets/ebfe4c63-ab6c-4ab7-abe8-83117701cc00" />
+<img width="1440" alt="Screenshot 2025-02-25 at 7 39 45 PM" src="https://github.com/user-attachments/assets/7d534307-687c-401d-9efe-5fd7894decab" />
+
 
